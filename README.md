@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on machine learning and neural networks.
-- 📫 How to reach me: pank75_75@mail.ru
+- 📫 How to reach me: servkrut80@gmail.com
 -
 
 <!---
